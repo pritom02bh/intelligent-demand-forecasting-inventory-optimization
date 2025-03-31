@@ -6,8 +6,16 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 IntelliStock is an advanced analytics platform that combines AI-powered demand forecasting with inventory optimization to help businesses make data-driven supply chain decisions.
+![1](https://github.com/user-attachments/assets/271ce1ca-ac3c-4066-b87b-8f1be24021fa)
+![2](https://github.com/user-attachments/assets/78599cd9-14b5-449a-894d-0d68b168153e)
+![3](https://github.com/user-attachments/assets/5ef13097-b9d4-451a-9d93-f32ed14edac6)
+![4](https://github.com/user-attachments/assets/6be02944-8c23-4c94-bdea-ac78ae90f133)
+![5](https://github.com/user-attachments/assets/41f0b493-d0bc-4748-8c01-1462e7412c60)
+![forecasting](https://github.com/user-attachments/assets/878c2527-f5c9-495e-994b-176fcc4ddfbf)
+![7](https://github.com/user-attachments/assets/d5a6834a-56fe-4a5e-ac41-c1c7535da437)
+![8](https://github.com/user-attachments/assets/cfefbead-9934-40b8-b0f3-5622c955a523)
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+
 
 ## 🚀 Features
 
