@@ -1,0 +1,11 @@
+store_id,name,city,state,country,region,size_category,opening_date
+1,ABC Retail,New York,New York,USA,Northeast,large,2018-03-15
+2,XYZ Mart,Miami,Florida,USA,Southeast,medium,2019-06-20
+3,Sunshine Retail,Chicago,Illinois,USA,Midwest,small,2017-11-10
+4,West Coast Emporium,Los Angeles,California,USA,West,large,2016-09-25
+5,Southwest Superstore,Phoenix,Arizona,USA,Southwest,large,2018-05-12
+6,Northern Lights Retail,Boston,Massachusetts,USA,Northeast,medium,2017-04-30
+7,Southern Comfort Store,Atlanta,Georgia,USA,Southeast,small,2019-02-18
+8,Heartland Market,Kansas City,Missouri,USA,Midwest,medium,2016-07-05
+9,Pacific Coast Outlet,Seattle,Washington,USA,West,small,2019-10-22
+10,Desert Oasis Mall,Las Vegas,Nevada,USA,Southwest,large,2018-08-14

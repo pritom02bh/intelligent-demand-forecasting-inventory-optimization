@@ -1,0 +1,102 @@
+[
+  {
+    "store_id": 1,
+    "name": "ABC Retail",
+    "city": "New York",
+    "state": "New York",
+    "country": "USA",
+    "region": "Northeast",
+    "size_category": "large",
+    "opening_date": "2018-03-15"
+  },
+  {
+    "store_id": 2,
+    "name": "XYZ Mart",
+    "city": "Miami",
+    "state": "Florida",
+    "country": "USA",
+    "region": "Southeast",
+    "size_category": "medium",
+    "opening_date": "2019-06-20"
+  },
+  {
+    "store_id": 3,
+    "name": "Sunshine Retail",
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "USA",
+    "region": "Midwest",
+    "size_category": "small",
+    "opening_date": "2017-11-10"
+  },
+  {
+    "store_id": 4,
+    "name": "West Coast Emporium",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "USA",
+    "region": "West",
+    "size_category": "large",
+    "opening_date": "2016-09-25"
+  },
+  {
+    "store_id": 5,
+    "name": "Southwest Superstore",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "country": "USA",
+    "region": "Southwest",
+    "size_category": "large",
+    "opening_date": "2018-05-12"
+  },
+  {
+    "store_id": 6,
+    "name": "Northern Lights Retail",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "USA",
+    "region": "Northeast",
+    "size_category": "medium",
+    "opening_date": "2017-04-30"
+  },
+  {
+    "store_id": 7,
+    "name": "Southern Comfort Store",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "country": "USA",
+    "region": "Southeast",
+    "size_category": "small",
+    "opening_date": "2019-02-18"
+  },
+  {
+    "store_id": 8,
+    "name": "Heartland Market",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "country": "USA",
+    "region": "Midwest",
+    "size_category": "medium",
+    "opening_date": "2016-07-05"
+  },
+  {
+    "store_id": 9,
+    "name": "Pacific Coast Outlet",
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "USA",
+    "region": "West",
+    "size_category": "small",
+    "opening_date": "2019-10-22"
+  },
+  {
+    "store_id": 10,
+    "name": "Desert Oasis Mall",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "country": "USA",
+    "region": "Southwest",
+    "size_category": "large",
+    "opening_date": "2018-08-14"
+  }
+]

@@ -1,0 +1,4 @@
+supplier_id,name,country,reliability_score,average_lead_time_days,payment_terms,specialties
+SUP001,Global Electronics,China,8,25,Net 45,"ELEC,ELE,CLO,FOO,HOM,TOY"
+SUP002,Organic Farms Co,USA,9,7,Net 30,FOOD
+SUP003,Fashion Textiles Ltd,India,7,30,Net 60,CLTH

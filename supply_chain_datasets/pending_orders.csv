@@ -1,0 +1,6 @@
+product_id,quantity,order_date,arrival_date,status
+FOO-002,7626.0,2025-03-22,2025-04-05,pending
+HOM-003,10393.0,2025-03-22,2025-04-12,pending
+CLO-001,8823.0,2025-03-27,2025-04-03,pending
+CLO-003,8747.0,2025-03-29,2025-04-19,pending
+FOO-003,7972.0,2025-03-29,2025-04-19,pending
