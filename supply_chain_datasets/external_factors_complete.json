@@ -1,0 +1,86 @@
+{
+  "major_holidays": [
+    {
+      "date": "2023-04-16",
+      "impact_level": {
+        "electronics": 8,
+        "clothing": 7,
+        "home goods": 6
+      }
+    },
+    {
+      "date": "2024-12-25",
+      "impact_level": {
+        "electronics": 9,
+        "clothing": 8,
+        "home goods": 7
+      }
+    }
+  ],
+  "promotional_events": [
+    {
+      "start_date": "2023-06-01",
+      "end_date": "2023-06-07",
+      "affected_categories": [
+        "electronics"
+      ],
+      "discount_rate": 0.2
+    },
+    {
+      "start_date": "2024-02-14",
+      "end_date": "2024-02-21",
+      "affected_categories": [
+        "clothing"
+      ],
+      "discount_rate": 0.15
+    }
+  ],
+  "economic_indicators": [
+    {
+      "month": "2023-04",
+      "consumer_confidence_index": 110,
+      "inflation_rate": 2.5
+    },
+    {
+      "month": "2024-09",
+      "consumer_confidence_index": 105,
+      "inflation_rate": 3.0
+    }
+  ],
+  "seasonal_factors": [
+    {
+      "month": "2023-07",
+      "ratings": {
+        "electronics": 7,
+        "clothing": 6,
+        "home goods": 8
+      }
+    },
+    {
+      "month": "2024-01",
+      "ratings": {
+        "electronics": 8,
+        "clothing": 7,
+        "home goods": 9
+      }
+    }
+  ],
+  "supply_chain_disruptions": [
+    {
+      "date": "2023-10-15",
+      "duration_days": 5,
+      "affected_categories": [
+        "electronics"
+      ],
+      "severity": "medium"
+    },
+    {
+      "date": "2024-06-20",
+      "duration_days": 3,
+      "affected_categories": [
+        "clothing"
+      ],
+      "severity": "low"
+    }
+  ]
+}

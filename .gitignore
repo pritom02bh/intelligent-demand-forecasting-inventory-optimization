@@ -47,6 +47,15 @@ data/processed/
 data/interim/
 data/external/
 
+# Allow real data for the project
+!supply_chain_datasets/
+!supply_chain_datasets/*.csv
+!supply_chain_datasets/*.xlsx
+!supply_chain_datasets/*.json
+!supply_chain_datasets/**/*.csv
+!supply_chain_datasets/**/*.xlsx
+!supply_chain_datasets/**/*.json
+
 # Models
 *.joblib
 *.pkl
@@ -102,7 +111,7 @@ coverage.xml
 .pytest_cache/
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
 
 # Environment variables
 .env
@@ -132,4 +141,8 @@ Thumbs.db
 *api_key*
 *secret*
 *password*
-*token* 
+*token*
+
+# Allow Streamlit config
+!.streamlit/
+!.streamlit/config.toml 

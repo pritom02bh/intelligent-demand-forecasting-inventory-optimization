@@ -1,0 +1,16 @@
+product_id,name,base_price,base_cost,lead_time_days,shelf_life_days,unit,min_order_quantity,package_size,category
+ELE-001,Smartphone,300,180.0,14,,each,10,1,Electronics
+ELE-002,Laptop,800,480.0,21,,each,5,1,Electronics
+ELE-003,Headphones,50,30.0,7,,each,20,1,Electronics
+CLO-001,T-shirt,10,6.0,7,,each,50,1,Clothing
+CLO-002,Jeans,30,18.0,14,,each,30,1,Clothing
+CLO-003,Sneakers,50,30.0,21,,each,20,1,Clothing
+FOO-001,Cereal,5,3.0,7,180.0,kg,100,1,Food
+FOO-002,Chocolate,2,1.2,14,90.0,each,200,1,Food
+FOO-003,Frozen Pizza,8,4.8,21,365.0,each,50,1,Food
+HOM-001,Pillow,20,12.0,7,,each,25,1,Home Goods
+HOM-002,Blanket,30,18.0,14,,each,20,1,Home Goods
+HOM-003,Cookware Set,100,60.0,21,,set,5,1,Home Goods
+TOY-001,Action Figure,15,9.0,7,,each,50,1,Toys
+TOY-002,Doll,10,6.0,14,,each,50,1,Toys
+TOY-003,Board Game,20,12.0,21,,each,30,1,Toys
